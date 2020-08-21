@@ -20,6 +20,8 @@ public class Solution {
         int arr[] = { 1, 1, 1, 1, 2, 3, 4, 4, 4, 7 };
         System.out.println("Initial Array: " + Arrays.toString(arr));
         int finalArrLen = removeDuplicates(arr);
-        System.out.println("Filtered Array (Length: " + finalArrLen + "): " + Arrays.toString(arr));
+        System.out.println(
+                "Final Array (Length: " + finalArrLen + "): " + Arrays.toString(arr).substring(1, (finalArrLen * 3) - 1)
+            );
     }
 }
