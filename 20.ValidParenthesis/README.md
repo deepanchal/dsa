@@ -1,5 +1,7 @@
 ## Valid Parenthesis
 
+![Language](https://img.shields.io/badge/language-cpp-blue)&nbsp;![Language](https://img.shields.io/badge/difficulty-easy-brightgreen)
+
 Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 An input string is valid if:

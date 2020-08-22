@@ -1,4 +1,7 @@
 ## Roman to Integer
+
+![Language](https://img.shields.io/badge/language-java-red)&nbsp;![Language](https://img.shields.io/badge/difficulty-easy-brightgreen)
+
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 ```
