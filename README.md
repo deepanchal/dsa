@@ -12,3 +12,4 @@ Problems solved so far:
 |     21.     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                           |    Easy    |      [Java](/21.MergeTwoSortedLists)       |
 |     26.     | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |    Easy    | [Java](26.RemoveDuplicatesFromSortedArray) |
 |     27.     | [Remove Element](https://leetcode.com/problems/remove-element)                                           |    Easy    |          [Java](27.RemoveElement)          |
+|     28.     | [Implement strStr()](https://leetcode.com/problems/implement-strstr)                                     |    Easy    |      [Java](/28.ImplementStrStr())       |
