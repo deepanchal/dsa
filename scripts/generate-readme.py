@@ -54,12 +54,12 @@ readme_md = f"""# {project['name']} ({project['subtitle']})
 
 {project['description']}
 
-## Leetcode
+## [Leetcode]({leetcode_url})
 
 Problems solved so far:
 {leetcode_table}
 
-## Type Challenges
+## [Type Challenges]({type_challenges_url})
 
 Challenges solved so far:
 {type_challenges_table}
