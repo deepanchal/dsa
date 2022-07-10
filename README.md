@@ -2,7 +2,7 @@
 
 Repo for practicing Data Structures & Algorithms
 
-## Leetcode
+## [Leetcode](https://leetcode.com/problems/)
 
 Problems solved so far:
 
@@ -20,7 +20,7 @@ Problems solved so far:
 | 35 | [Search insert position](<https://leetcode.com/problems/search-insert-position>) |  | [py](leetcode/35-search-insert-position/solution.py), [ts](leetcode/35-search-insert-position/solution.ts) |
 
 
-## Type Challenges
+## [Type Challenges](https://tsch.js.org/)
 
 Challenges solved so far:
 
