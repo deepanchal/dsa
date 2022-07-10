@@ -18,6 +18,7 @@ Problems solved so far:
 | 28 | [Implement strstr](<https://leetcode.com/problems/implement-strstr>) |  | [java](leetcode/28-implement-strstr/Solution.java) |
 | 724 | [Find pivot index](<https://leetcode.com/problems/find-pivot-index>) |  | [java](leetcode/724-find-pivot-index/Solution.java) |
 | 35 | [Search insert position](<https://leetcode.com/problems/search-insert-position>) |  | [py](leetcode/35-search-insert-position/solution.py), [ts](leetcode/35-search-insert-position/solution.ts) |
+| 58 | [Length of last word](<https://leetcode.com/problems/length-of-last-word>) |  | [py](leetcode/58-length-of-last-word/solution.py), [ts](leetcode/58-length-of-last-word/solution.ts), [java](leetcode/58-length-of-last-word/Solution.java) |
 
 
 ## [Type Challenges](https://tsch.js.org/)
