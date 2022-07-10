@@ -31,6 +31,15 @@ Challenges solved so far:
 | 00004 | [Pick](<https://tsch.js.org/pick>) | easy | [.ts](type-challenges/problems/00004-easy-pick.ts) |
 | 00014 | [First](<https://tsch.js.org/first>) | easy | [.ts](type-challenges/problems/00014-easy-first.ts) |
 | 00011 | [Tuple to object](<https://tsch.js.org/tuple-to-object>) | easy | [.ts](type-challenges/problems/00011-easy-tuple-to-object.ts) |
+| 00018 | [Tuple length](<https://tsch.js.org/tuple-length>) | easy | [.ts](type-challenges/problems/00018-easy-tuple-length.ts) |
+| 00043 | [Exclude](<https://tsch.js.org/exclude>) | easy | [.ts](type-challenges/problems/00043-easy-exclude.ts) |
+| 00189 | [Awaited](<https://tsch.js.org/awaited>) | easy | [.ts](type-challenges/problems/00189-easy-awaited.ts) |
+| 00268 | [If](<https://tsch.js.org/if>) | easy | [.ts](type-challenges/problems/00268-easy-if.ts) |
+| 00533 | [Concat](<https://tsch.js.org/concat>) | easy | [.ts](type-challenges/problems/00533-easy-concat.ts) |
+| 00898 | [Includes](<https://tsch.js.org/includes>) | easy | [.ts](type-challenges/problems/00898-easy-includes.ts) |
+| 03057 | [Push](<https://tsch.js.org/push>) | easy | [.ts](type-challenges/problems/03057-easy-push.ts) |
+| 03060 | [Unshift](<https://tsch.js.org/unshift>) | easy | [.ts](type-challenges/problems/03060-easy-unshift.ts) |
+| 03312 | [Parameters](<https://tsch.js.org/parameters>) | easy | [.ts](type-challenges/problems/03312-easy-parameters.ts) |
 
 
 ## Getting Started
