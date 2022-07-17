@@ -1,0 +1,5 @@
+# This file is just here to make rust-analyzer work
+[package]
+name = "dsa"
+version = "0.1.0"
+
